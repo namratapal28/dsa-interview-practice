@@ -1,5 +1,5 @@
 # dsa-interview-practice
-This project has optimal solutions for the below Leetcode medium problems, that are needed to prepare for DSA interviews. 
+This project has optimal solutions for the below Leetcode medium problems, that are needed to prepare for DSA interviews:
 Solutions are in /src folder.
 
 1. Reverse Singly linked list
