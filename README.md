@@ -7,3 +7,4 @@ These are Java optimal solutions in /src folder:
 3. Find second highest salary in List<Person> order by Salary first, then by Name
 4. Search in Rotated Sorted Array
 5. Flatten a multi-level doubly linked list
+6. Binary tree traversals (preorder, postorder, inorder, level-order)
