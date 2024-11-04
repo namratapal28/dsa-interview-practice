@@ -8,4 +8,4 @@ Navigate to /src folder for Java optimal solutions:
 4. Search in Rotated Sorted Array
 5. Flatten a multi-level doubly linked list
 6. Binary tree traversals (preorder, postorder, inorder, level-order)
-7. Number of islands (https://leetcode.com/problems/number-of-islands/description)
+7. Number of islands (Problem desc: https://leetcode.com/problems/number-of-islands/description)
