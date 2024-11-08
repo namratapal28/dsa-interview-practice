@@ -12,3 +12,4 @@ Navigate to /src folder for Java optimal solutions:
 8. Rotting oranges (Problem desc: https://leetcode.com/problems/rotting-oranges/description)
 9. TicTacToe game
 10. 3Sum (Problem desc: https://leetcode.com/problems/3sum/description)
+11. 4Sum (Problem desc: https://leetcode.com/problems/4sum/description)
