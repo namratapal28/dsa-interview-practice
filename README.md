@@ -1,6 +1,6 @@
 # dsa-interview-practice
 This project has optimal solutions for the below Leetcode medium problems, that are needed to prepare for DSA interviews.
-Navigate to /src folder for Java optimal solutions:
+**Navigate to /src folder for Java optimal solutions:**
 
 1. Reverse Singly linked list
 2. Reverse Doubly linked list
