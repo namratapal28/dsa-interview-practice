@@ -14,3 +14,4 @@ This project has optimal solutions for the below Leetcode medium problems, that 
 10. 3Sum (Problem desc: https://leetcode.com/problems/3sum/description)
 11. 4Sum (Problem desc: https://leetcode.com/problems/4sum/description)
 12. Validate BST (Problem desc: https://leetcode.com/problems/validate-binary-search-tree)
+13. Subsets (Problem desc: https://leetcode.com/problems/subsets)
