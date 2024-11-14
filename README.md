@@ -15,5 +15,6 @@ This project has optimal solutions for the below Leetcode medium problems, that 
 11. 4Sum (Problem desc: https://leetcode.com/problems/4sum/description)
 12. Validate BST (Problem desc: https://leetcode.com/problems/validate-binary-search-tree)
 13. Subsets (Problem desc: https://leetcode.com/problems/subsets)
-14. Subsets2 (Problem desc: https://leetcode.com/problems/subsets-ii/description)
+14. Subsets II (Problem desc: https://leetcode.com/problems/subsets-ii/description)
 15. Permutations (Problem desc: https://leetcode.com/problems/permutations/description)
+16. Permutations II (Problem desc: https://leetcode.com/problems/permutations-ii)
