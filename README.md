@@ -18,3 +18,4 @@ This project has optimal solutions for the below Leetcode medium problems, that 
 14. Subsets II (Problem desc: https://leetcode.com/problems/subsets-ii/description)
 15. Permutations (Problem desc: https://leetcode.com/problems/permutations/description)
 16. Permutations II (Problem desc: https://leetcode.com/problems/permutations-ii)
+17. Generate Parentheses (Problem desc: https://leetcode.com/problems/generate-parentheses)
